@@ -1,5 +1,9 @@
 # ESP32-C3 Environmental Monitoring Station
 
+
+![PCB](env-station-slika.png)
+
+
 Dvoslojna PCB za mjerenje temperature, vlage, tlaka, CO2 i
 cestica. Prvi vlastiti PCB dizajn.
 
